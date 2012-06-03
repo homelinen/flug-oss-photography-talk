@@ -4,7 +4,7 @@ rdiscount extensions: [smart]
 
 server:      false
 server_port: 4000
-base-url:    /slides/base/_site/
+base-url:    /slides/oss-photography/_site/
 source:      ./
 destination: ./_site
 plugins:     ./_plugins
@@ -43,3 +43,4 @@ kramdown:
     coderay_css: style
 
 deckjs-loc: deckjs/
+djs-extend: deckjs-extensions/
