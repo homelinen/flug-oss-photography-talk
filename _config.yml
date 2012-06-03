@@ -4,7 +4,7 @@ rdiscount extensions: [smart]
 
 server:      false
 server_port: 4000
-base-url:    ./
+base-url:    /slides/base/_site/
 source:      ./
 destination: ./_site
 plugins:     ./_plugins
@@ -41,3 +41,5 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: style
+
+deckjs-loc: deckjs/
