@@ -23,5 +23,5 @@ Detail in an image. Many factors:
 
 * exposure
 * movement (Movment causes blurring)
-* ISO (Look into this)
-* Sensor and Lens faults
+* ISO (Digital Sensor Sensitivity)
+* Sensor and Lens faults (Chromatic Aberration)
