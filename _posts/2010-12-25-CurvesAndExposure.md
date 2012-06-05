@@ -2,20 +2,22 @@
 title: Curves
 ---
 
-<h2>Curves/Exposure and Sharpness</h2>
+## Curves/Exposure and Sharpness ##
 
-<h3>Curves</h3>
-[A picture of a Curve]()
+### Curves ###
 
-* 
+* Represent the light levels in an image
+* Very flexible in editing
+* Specific control at different light levels
+* Generally seperate R,G,B channels
 
-<h3>Exposure</h3>
+### Exposure ###
 
 How long the shutter was open. The longer it's open the brighter the image.
 
 What if it's open too long or not long enough?
 
-<h3>Sharpness</h3>
+### Sharpness ###
 
 Detail in an image. Many factors:
 

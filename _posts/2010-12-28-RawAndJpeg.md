@@ -2,7 +2,7 @@
 title: Raw and JPEG
 ---
 
-<h2>RAW and JPEG Files</h2>
+## RAW and JPEG Files ##
 
 <h3 class="slide">JPEG</h3>
 

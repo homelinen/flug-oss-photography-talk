@@ -9,7 +9,7 @@ title: Custom Firmware
 
 ### Magic Candle ###
 
-Specific firmware for Canon video cameras (_550d_, _5d mkii_, _600d_)
+Specific firmware for Canon video cameras ( _550d_, _5d mkii_, _600d_)
 
 Provides: 
 
@@ -19,12 +19,15 @@ Provides:
     <li>Better focus options (focus trap, focus fields, etc)</li>
 </ul>
 
-### That Other Canon One ###
+### CHDK ###
 
 Used for compact Canon cameras to add SLR-like funcitonality. Such as:
 
 <ul class="slide">
     <li>RAW shooting</li>
     <li>Exposure/Aperture Controls</li>
-    <li>More</li>
+    <li>Bracketing</li>
+    <li>Scritping</li>
 </ul>
+
+Both _CHDK_ and _Magic Candle_ are impermanent, do not install to ROM.
